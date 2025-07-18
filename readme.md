@@ -31,12 +31,12 @@ This project implements a microservices architecture using Spring Boot and Sprin
 
 Each service includes the common module as a dependency:
 ```xml
-<!-- In service's pom.xml -->
-<dependency>
-  <groupId>com.yourorg</groupId>
-  <artifactId>commonmodule</artifactId>
-  <version>1.0.0</version>
+<dependency> 
+  <groupId>com.commonModule</groupId>
+	<artifactId>commonModule</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 </dependency>
+```
 
 # 🛡️ Microservice Authentication System
 
