@@ -13,7 +13,7 @@ This project implements a microservices architecture using Spring Boot and Sprin
 
 ## 🗺️ Architecture Overview
 
-![Architecture Diagram](https://example.com/path/to/image.png)
+![Architecture Diagram](https://github.com/shoyebmd424/Distributed-Auth-System/blob/main/Authentication.png)
 ---
 
 ## 📦 Common Module
